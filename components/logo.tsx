@@ -1,8 +1,9 @@
+import Link from 'next/link'
 import React from 'react'
 
 function logo() {
   return (
-    <div>logo</div>
+    <Link href='/'>Go HomePage !!!</Link>
   )
 }
 
