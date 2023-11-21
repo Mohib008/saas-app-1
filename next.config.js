@@ -4,7 +4,7 @@ const nextConfig = {
         webpack5: true,
     },
     images: {
-        domains: ["placehold.co"],
+        domains: ["github.com"]
     },
 }
 
